@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using Astronautica;
 using BepInEx;
 using HarmonyLib;
-using HarmonyLib.Tools;
-using UnityEngine.Assertions;
 
 namespace MH_Helper
 {
