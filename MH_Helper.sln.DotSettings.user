@@ -3,6 +3,7 @@
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CMars_0020Horizon_005CMars_0020Horizon_005FData_005CManaged_005CAssembly_002DCSharp_002Dfirstpass_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CMars_0020Horizon_005CMars_0020Horizon_005FData_005CManaged_005CAssembly_002DCSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FVolumes_002FADATA_0020SSD_002FMH_005FHelper_002Fexternal_002F0Harmony_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FVolumes_002FADATA_0020SSD_002FMH_005FHelper_002Fexternal_002FAssembly_002DCSharp_002Dfirstpass_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
   &lt;Assembly Path="D:\SteamLibrary\steamapps\common\Mars Horizon\Mars Horizon_Data\Managed\Assembly-CSharp.dll" /&gt;
   &lt;Assembly Path="/Volumes/ADATA SSD/MH_Helper/external/Assembly-CSharp.dll" /&gt;
